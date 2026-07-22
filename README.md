@@ -1,5 +1,8 @@
 # 💰 Gestor de Presupuesto Personal
 
+## Captura de Pantalla
+![Pantalla principal](img/ABP3%20Captura.jpg)
+
 ## 📖 Descripción
 
 El Gestor de Presupuesto Personal es una aplicación desarrollada en JavaScript que permite registrar ingresos y gastos de manera sencilla, calcular el saldo disponible y consultar un resumen de los movimientos realizados.
@@ -115,9 +118,6 @@ const movimientos = [];
 ---
 
 ## 📷 Vista principal
-
-## Captura de Pantalla
-![Pantalla principal](img/ABP3%20Captura.jpg)
 
 La aplicación cuenta con una interfaz sencilla desarrollada en HTML y CSS que permite iniciar el sistema mediante un botón, mientras que todas las operaciones se realizan utilizando ventanas emergentes (`alert` y `prompt`).
 
