@@ -116,6 +116,9 @@ const movimientos = [];
 
 ## 📷 Vista principal
 
+## Captura de Pantalla
+![Pantalla principal](img/ABP3%20Captura.jpg)
+
 La aplicación cuenta con una interfaz sencilla desarrollada en HTML y CSS que permite iniciar el sistema mediante un botón, mientras que todas las operaciones se realizan utilizando ventanas emergentes (`alert` y `prompt`).
 
 ---
