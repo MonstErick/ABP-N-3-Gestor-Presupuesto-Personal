@@ -1,6 +1,6 @@
 # 💰 Gestor de Presupuesto Personal
 
-## Captura de Pantalla
+
 ![Pantalla principal](img/ABP3%20Captura.jpg)
 
 ## 📖 Descripción
